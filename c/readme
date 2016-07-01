@@ -1,0 +1,13 @@
+
+2.c - 9.c file 
+	input:
+		char *str = "aaa,bbb,ccc,ddd,eee";
+	output:
+		char *str1 = "aaa";
+		char *str2 = "bbb";
+		char *str3 = "ccc";
+			.	
+			.	
+			.	
+			.	
+			.	
