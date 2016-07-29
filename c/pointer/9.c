@@ -7,7 +7,8 @@ int cont_num(char *str, const char *zstr, int *cont)
 	int tmp_cont = 0;
 	char *tmp=str;
 
-	while(*tmp != '\0')
+	//while(*tmp != '\0')
+	while(*tmp)
 	{
 		tmp = strstr(tmp,zstr);
 		if(tmp == NULL)
