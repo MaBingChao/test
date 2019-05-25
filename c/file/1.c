@@ -2,7 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 
-#define FILE_PATH "/home/work/blue/work/test/c/file/f1.txt"
+//#define FILE_PATH "/home/work/blue/work/test/c/file/f1.txt"
+#define FILE_PATH "./f1.txt"
 
 
 //size_t fread(void *ptr, size_t size, size_t nmemb, FILE *stream);
